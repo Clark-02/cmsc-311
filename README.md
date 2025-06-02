@@ -15,11 +15,15 @@
 
 
 ## Technologies Used
-MySql Databased
-PHP Backend
-TensorFlow.js
-Python
-Chart.js
+● MySql Databased
+
+● PHP Backend
+
+● TensorFlow.js
+
+● Python
+
+● Chart.js
 
 ## Installation Instruction 
 https://github.com/Clark-02/cmsc-311.git
