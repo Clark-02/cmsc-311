@@ -8,7 +8,7 @@
 https://drive.google.com/drive/folders/1jgYUYhf5XIyFBwLjBC_3BKqQGr2tpbiA?usp=sharing
 
 ## Technologies Used
-MySql Databased
+1. MySql Databased
 PHP Backend
 TensorFlow.js
 Python
