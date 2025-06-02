@@ -6,8 +6,11 @@
 
 ## Features Added
 ● Role-based layout (Admin, Teacher, Student)
+
 ● Quiz/assignment submission panels
+
 ● Dashboard with real-time statistics
+
 ● Score feedback and performance graphs
 
 
