@@ -30,3 +30,13 @@ https://github.com/Clark-02/cmsc-311.git
 
 ## Demo Video Link
 https://drive.google.com/drive/folders/1jgYUYhf5XIyFBwLjBC_3BKqQGr2tpbiA?usp=sharing
+
+## Contributors
+● Guevarra, Ivan - Lead Developer, Testing 
+
+● Gabarda, Clark - Team Leader, UI Designer
+
+● Delfin, Jyron Marc - Documentation
+
+
+
